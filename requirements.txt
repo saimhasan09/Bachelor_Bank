@@ -1,0 +1,16 @@
+django-environ
+EasyProcess
+entrypoint2
+MouseInfo
+mss
+Pillow
+psycopg2
+psycopg2-binary
+PyAutoGUI
+PyGetWindow
+PyMsgBox
+pyperclip
+PyRect
+pyscreenshot
+PyScreeze
+pytweening
